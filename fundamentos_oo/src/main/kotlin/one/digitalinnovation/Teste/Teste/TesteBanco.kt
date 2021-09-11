@@ -1,6 +1,6 @@
 package one.digitalinnovation.Teste.Teste
 
-import one.digitalinnovation.Banco
+import one.digitalinnovation.digitalinnovation.Banco
 
 fun main() {
     val digiOneBank = Banco(nome = "DigiOne", numero = 12)

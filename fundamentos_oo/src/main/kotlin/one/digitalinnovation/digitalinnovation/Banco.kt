@@ -1,4 +1,4 @@
-package one.digitalinnovation
+package one.digitalinnovation.digitalinnovation
 
 data class Banco(
     val nome:String,
